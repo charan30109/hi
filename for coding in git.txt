@@ -1,0 +1,8 @@
+git add sketch.js 
+
+git commit -m "platform added"
+
+
+ create a new repository in github. Copy the url of the repository.
+
+ write the lines to push a file into the repository
